@@ -1,4 +1,3 @@
 # Mon très joli site web
 
-Salut la terre ! 
- coucou
+Salut la terre ! coucou
